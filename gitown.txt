@@ -1,0 +1,16 @@
+1.to know version>git --version
+2.git hub>new>create repository
+3.to clone
+4.create new floder
+5.open with floder
+6.enter type cmd floder name
+7.first>type git clone and copy the url
+8.cd floder name(cd sample)
+9.git status
+10.git add file name
+
+to add email and username
+git config--global user.email
+git config--global user.name
+git
+
